@@ -1,7 +1,7 @@
 # ASP-MVC-Rest-web-api
 
 *open solution in VS/VS code
-*run dotnet run command to launh server
+*run dotnet run command to launch the server
 
 Access API via https://localhost:5001/api/commands
 or 
